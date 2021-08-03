@@ -27,5 +27,5 @@ Just give me a shout!
 
 ### Github Status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodidea0616&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=goodidea0616&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodidea0616&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
